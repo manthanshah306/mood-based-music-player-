@@ -1,2 +1,3 @@
 # mood-based-music-player-
-author-Manthan Shah
+<br>
+Author - Manthan Shah
